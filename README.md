@@ -1,7 +1,7 @@
 ﻿# Modelagem de Processos
 
 <p align="center">
-  Repositório acadêmico da disciplina de <strong>Experiência Criativa</strong>
+  Repositório acadêmico da disciplina de <strong>Modelagem de Processos</strong>
   <br>
   Curso de <strong>Engenharia de Software</strong> — PUCPR
 </p>
